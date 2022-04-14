@@ -1,0 +1,20 @@
+[0.882s] Invoking command in '/home/jjj/moveo_robotic_arm/src/moveo': PYTHONPATH=/home/jjj/moveo_robotic_arm/install/moveo/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/moveo build --build-base /home/jjj/moveo_robotic_arm/build/moveo/build install --prefix /home/jjj/moveo_robotic_arm/install/moveo --record /home/jjj/moveo_robotic_arm/build/moveo/install.log --single-version-externally-managed
+[1.165s] running egg_info
+[1.166s] writing ../../build/moveo/moveo.egg-info/PKG-INFO
+[1.166s] writing dependency_links to ../../build/moveo/moveo.egg-info/dependency_links.txt
+[1.167s] writing entry points to ../../build/moveo/moveo.egg-info/entry_points.txt
+[1.167s] writing requirements to ../../build/moveo/moveo.egg-info/requires.txt
+[1.168s] writing top-level names to ../../build/moveo/moveo.egg-info/top_level.txt
+[1.214s] reading manifest file '../../build/moveo/moveo.egg-info/SOURCES.txt'
+[1.215s] writing manifest file '../../build/moveo/moveo.egg-info/SOURCES.txt'
+[1.215s] running build
+[1.215s] running build_py
+[1.216s] running install
+[1.217s] running install_lib
+[1.219s] running install_data
+[1.220s] running install_egg_info
+[1.222s] removing '/home/jjj/moveo_robotic_arm/install/moveo/lib/python3.8/site-packages/moveo-0.0.0-py3.8.egg-info' (and everything under it)
+[1.222s] Copying ../../build/moveo/moveo.egg-info to /home/jjj/moveo_robotic_arm/install/moveo/lib/python3.8/site-packages/moveo-0.0.0-py3.8.egg-info
+[1.224s] running install_scripts
+[1.245s] writing list of installed files to '/home/jjj/moveo_robotic_arm/build/moveo/install.log'
+[1.270s] Invoked command in '/home/jjj/moveo_robotic_arm/src/moveo' returned '0': PYTHONPATH=/home/jjj/moveo_robotic_arm/install/moveo/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/moveo build --build-base /home/jjj/moveo_robotic_arm/build/moveo/build install --prefix /home/jjj/moveo_robotic_arm/install/moveo --record /home/jjj/moveo_robotic_arm/build/moveo/install.log --single-version-externally-managed
