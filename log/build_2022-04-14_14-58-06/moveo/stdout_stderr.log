@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/moveo/moveo.egg-info
+writing ../../build/moveo/moveo.egg-info/PKG-INFO
+writing dependency_links to ../../build/moveo/moveo.egg-info/dependency_links.txt
+writing entry points to ../../build/moveo/moveo.egg-info/entry_points.txt
+writing requirements to ../../build/moveo/moveo.egg-info/requires.txt
+writing top-level names to ../../build/moveo/moveo.egg-info/top_level.txt
+writing manifest file '../../build/moveo/moveo.egg-info/SOURCES.txt'
+reading manifest file '../../build/moveo/moveo.egg-info/SOURCES.txt'
+writing manifest file '../../build/moveo/moveo.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jjj/moveo_robotic_arm/build/moveo/build
+creating /home/jjj/moveo_robotic_arm/build/moveo/build/lib
+creating /home/jjj/moveo_robotic_arm/build/moveo/build/lib/moveo
+copying moveo/__init__.py -> /home/jjj/moveo_robotic_arm/build/moveo/build/lib/moveo
+running install
+running install_lib
+creating /home/jjj/moveo_robotic_arm/install/moveo/lib/python3.8/site-packages/moveo
+copying /home/jjj/moveo_robotic_arm/build/moveo/build/lib/moveo/__init__.py -> /home/jjj/moveo_robotic_arm/install/moveo/lib/python3.8/site-packages/moveo
+byte-compiling /home/jjj/moveo_robotic_arm/install/moveo/lib/python3.8/site-packages/moveo/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/jjj/moveo_robotic_arm/install/moveo/share/ament_index
+creating /home/jjj/moveo_robotic_arm/install/moveo/share/ament_index/resource_index
+creating /home/jjj/moveo_robotic_arm/install/moveo/share/ament_index/resource_index/packages
+copying resource/moveo -> /home/jjj/moveo_robotic_arm/install/moveo/share/ament_index/resource_index/packages
+copying package.xml -> /home/jjj/moveo_robotic_arm/install/moveo/share/moveo
+running install_egg_info
+Copying ../../build/moveo/moveo.egg-info to /home/jjj/moveo_robotic_arm/install/moveo/lib/python3.8/site-packages/moveo-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/jjj/moveo_robotic_arm/build/moveo/install.log'

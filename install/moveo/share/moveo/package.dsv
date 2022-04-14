@@ -1,0 +1,6 @@
+source;share/moveo/hook/pythonpath.ps1
+source;share/moveo/hook/pythonpath.dsv
+source;share/moveo/hook/pythonpath.sh
+source;share/moveo/hook/ament_prefix_path.ps1
+source;share/moveo/hook/ament_prefix_path.dsv
+source;share/moveo/hook/ament_prefix_path.sh
