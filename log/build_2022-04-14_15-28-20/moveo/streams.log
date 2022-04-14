@@ -1,0 +1,25 @@
+[1.196s] Invoking command in '/home/jjj/moveo_robotic_arm/src/moveo': PYTHONPATH=/home/jjj/moveo_robotic_arm/install/moveo/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/moveo build --build-base /home/jjj/moveo_robotic_arm/build/moveo/build install --prefix /home/jjj/moveo_robotic_arm/install/moveo --record /home/jjj/moveo_robotic_arm/build/moveo/install.log --single-version-externally-managed
+[1.505s] running egg_info
+[1.506s] writing ../../build/moveo/moveo.egg-info/PKG-INFO
+[1.506s] writing dependency_links to ../../build/moveo/moveo.egg-info/dependency_links.txt
+[1.507s] writing entry points to ../../build/moveo/moveo.egg-info/entry_points.txt
+[1.508s] writing requirements to ../../build/moveo/moveo.egg-info/requires.txt
+[1.508s] writing top-level names to ../../build/moveo/moveo.egg-info/top_level.txt
+[1.555s] reading manifest file '../../build/moveo/moveo.egg-info/SOURCES.txt'
+[1.556s] writing manifest file '../../build/moveo/moveo.egg-info/SOURCES.txt'
+[1.557s] running build
+[1.557s] running build_py
+[1.558s] copying moveo/__init__.py -> /home/jjj/moveo_robotic_arm/build/moveo/build/lib/moveo
+[1.558s] running install
+[1.560s] running install_lib
+[1.561s] copying /home/jjj/moveo_robotic_arm/build/moveo/build/lib/moveo/__init__.py -> /home/jjj/moveo_robotic_arm/install/moveo/lib/python3.8/site-packages/moveo
+[1.562s] byte-compiling /home/jjj/moveo_robotic_arm/install/moveo/lib/python3.8/site-packages/moveo/__init__.py to __init__.cpython-38.pyc
+[1.563s] running install_data
+[1.563s] copying resource/moveo -> /home/jjj/moveo_robotic_arm/install/moveo/share/ament_index/resource_index/packages
+[1.564s] copying package.xml -> /home/jjj/moveo_robotic_arm/install/moveo/share/moveo
+[1.565s] running install_egg_info
+[1.567s] removing '/home/jjj/moveo_robotic_arm/install/moveo/lib/python3.8/site-packages/moveo-0.0.0-py3.8.egg-info' (and everything under it)
+[1.567s] Copying ../../build/moveo/moveo.egg-info to /home/jjj/moveo_robotic_arm/install/moveo/lib/python3.8/site-packages/moveo-0.0.0-py3.8.egg-info
+[1.567s] running install_scripts
+[1.589s] writing list of installed files to '/home/jjj/moveo_robotic_arm/build/moveo/install.log'
+[1.649s] Invoked command in '/home/jjj/moveo_robotic_arm/src/moveo' returned '0': PYTHONPATH=/home/jjj/moveo_robotic_arm/install/moveo/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/moveo build --build-base /home/jjj/moveo_robotic_arm/build/moveo/build install --prefix /home/jjj/moveo_robotic_arm/install/moveo --record /home/jjj/moveo_robotic_arm/build/moveo/install.log --single-version-externally-managed
