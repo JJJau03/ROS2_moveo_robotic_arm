@@ -1,0 +1,31 @@
+#include <AccelStepper.h>
+#include <MultiStepper.h>
+
+AccelStepper joint1(1, 54, 55);
+//AccelStepper joint2(1, step, dir);
+//AccelStepper joint3(1, step, dir);
+//AccelStepper joint4(1, step, dir);
+//AccelStepper joint5(1, step, dir);
+//AccelStepper joint6(1, step, dir);
+
+
+void setup() {
+  joint1.setMaxSpeed(600);
+  /*joint2.setMaxSpeed(600);
+  joint3.setMaxSpeed(600);
+  joint4.setMaxSpeed(600);
+  joint5.setMaxSpeed(600);
+  joint6.setMaxSpeed(600);
+
+  joint1.setSpeed(100);
+  joint2.setSpeed(100);
+  joint3.setSpeed(100);
+  joint4.setSpeed(100);
+  joint5.setSpeed(100);
+  joint6.setSpeed(100);
+*/
+}
+
+void loop() {
+  joint1.runSpeed();
+}
